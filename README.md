@@ -1,4 +1,3 @@
-#Variants-detections
 BioPython scripts elaborated with the help of Sophie Galina &amp; Camille Roux to detect non-synonymous substitutions differently fixed between four different lineages of Silene nutans, in plastid and nuclear genes alignments. 
 
 >**Authors** : Sophie Gallina 1, Camille Roux 1, Zoé Postel 1
@@ -11,7 +10,7 @@ BioPython scripts elaborated with the help of Sophie Galina &amp; Camille Roux t
 &nbsp;
 
 
-#=== Variant detection for nuclear genes ===
+**==Variant detection for nuclear genes==**
 
 Script using the output file of Read2snps program (vcf file). 
 
@@ -27,7 +26,7 @@ _Command line to run the script_ :
 &nbsp;
 
 
-#=== Variant detection for plastid genes ===
+**==Variant detection for plastid genes==**
 
 Directly on aligned and clean multiple sequence alignments in fasta format. 
 
