@@ -16,7 +16,7 @@ Script using the output file of Read2snps program (vcf file).
 
 _Command line to run the script_ : 
 
-./2_select_variants.py --config config.yaml --xls=nucl_variants_v2_test.xls
+./2_select_variants.py --config config.yaml --xls nucl_variants_v2_test.xls
 
 >-- config : give config file for the different direction and file to use
 
